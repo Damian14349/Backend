@@ -1,4 +1,4 @@
-def imageName="Damian14349/Backend"
+def imageName="damian14349/Backend"
 def dockerRegistry=""
 def registryCredentials="dockerhub"
 def dockerTag=""
